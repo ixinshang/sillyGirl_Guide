@@ -17,3 +17,13 @@
 **是否开启傻妞自动更新**
 
 `set sillyGirl auto_update false`
+
+**设置QQ管理员(含多个)**
+
+`set qq masters qq1&qq2`
+
+**下载加速代理地址**
+
+`set sillyGirl download_prefix  http://github.XXXXX.workers.dev/`
+
+###### <!--可以参见github加速代理搭建教程。-->
